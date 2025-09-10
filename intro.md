@@ -7,3 +7,6 @@ School is finally out! No more assignments, projects nor lectures. I made a prom
 [Hiking into Summer](./varl0011.md)
 
 [Kayaking with Friends](./alam0134.md)
+
+[Lemonade + Cookies](./ashl0024.md)
+
