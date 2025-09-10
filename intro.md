@@ -10,3 +10,4 @@ School is finally out! No more assignments, projects nor lectures. I made a prom
 
 [Lemonade + Cookies](./ashl0024.md)
 
+[Have a Barbecue](./seni0026.md)
